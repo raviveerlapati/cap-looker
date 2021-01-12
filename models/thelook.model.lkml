@@ -15,7 +15,7 @@ persist_with: ecommerce_etl
 ############ Base Explores #############
 
 explore: order_items {
-  label: "(1) Orders, Items and Users"
+  label: "(2) Orders, Items and Users"
 
   view_name: order_items
 
