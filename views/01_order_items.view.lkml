@@ -61,7 +61,7 @@ view: order_items {
     type: number
     sql: ${TABLE}.order_id ;;
     action: {
-      label: "Send this to slack channel"
+      label: "Send this to slack channel.."
       url: "https://hooks.zapier.com/hooks/catch/1662138/tvc3zj/"
       param: {
         name: "user_dash_link"
